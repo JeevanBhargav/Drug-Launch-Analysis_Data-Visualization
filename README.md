@@ -1,5 +1,5 @@
 # Drug-Launch-Analysis_Data-Visualization Project
-
+# CSV File link: https://drive.google.com/file/d/1RLxy2SpThIuALJ5hqA7Z7YFgRYig88kM/view?usp=share_link
 # Introduction 
 The dataset used in this analysis is the "500 Cities: Local Data for Better Health, 2018" obtained from the Kaggle website (https://www.kaggle.com/datasets/jennifersantiago/500-cities-local-data-for-better-health-2018). It contains data for the 500 largest cities within the US. The dataset has 810103 rows and 25 columns that include information such as state, city name, population, geolocation, and 27 measures for chronic disease related to unhealthy behaviors, health outcomes, and use of preventive services. Our dataset has a total of 7 float, 2 int, and 16 object/categorical values. 
 
@@ -18,3 +18,4 @@ Additionally, when compared to the respective prevalence population, California 
 Los Angeles, in particular, has been identified as the city with the highest prevalence of diabetes in California. Therefore, it would be a wise decision to launch the new drug in Los Angeles, California. 
 
 Furthermore, a significant portion of the population lack health insurance and goes for annual checkups. This information suggests that there is a potential market for low-cost drug in Los Angeles where a large number of people fall into this category.
+
